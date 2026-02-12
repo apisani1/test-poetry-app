@@ -6,15 +6,13 @@ build-backend = "poetry.core.masonry.api"
 name = "test-poetry-app"
 version = "0.0.0"
 description = "A short description of the project"
-authors = [
-    { name = "Antonio Pisani", email = "antonio.pisani@gmail.com" },
-]
+authors = [{ name = "Antonio Pisani", email = "antonio.pisani@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
 
 [project.scripts]
-test_poetry_app = "test_poetry_app.main:main"
+test-poetry-app = "test_poetry_app.main:main"
 
 [project.urls]
 "Source Code" = "https://github.com/apisani1/test-poetry-app"
