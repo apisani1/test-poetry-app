@@ -49,7 +49,7 @@ test_poetry_app
 
 Home <self>
 Guides <guides/index>
-API Reference <api/index>
+API Reference <api/modules>
 ```
 
 ```{toctree}
