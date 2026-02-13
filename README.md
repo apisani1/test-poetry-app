@@ -1,6 +1,6 @@
 # test-poetry-app
 
-A short description of the project
+A short description of the app
 
 ## Overview
 
@@ -39,4 +39,3 @@ pip install test-poetry-app
 
 test_poetry_app
 ```
-
