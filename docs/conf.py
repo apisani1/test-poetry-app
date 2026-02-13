@@ -14,7 +14,7 @@ from datetime import datetime
 project = "test-poetry-app"
 copyright = f"{datetime.now().year}, Antonio Pisani"
 author = "Antonio Pisani"
-release = "0.0.0"
+release = "v0.0.1"
 
 os.environ["SPHINX_BUILD"] = "True"
 

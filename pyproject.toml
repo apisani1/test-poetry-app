@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [project]
 name = "test-poetry-app"
-version = "0.0.0"
+version = "v0.0.1"
 description = "A short description of the project"
 authors = [{ name = "Antonio Pisani", email = "antonio.pisani@gmail.com" }]
 readme = "README.md"
